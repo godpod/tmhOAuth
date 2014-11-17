@@ -1,16 +1,16 @@
 {
-  "name": "godpod/tmhoauth",
+  "name": "godpod/twitter",
   "description": "An OAuth library written in PHP for Twitter",
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "themattharris",
-      "email": "matt@themattharris.com",
+      "name": "godpod",
+      "email": "ravi.rajendra@gmail.com",
       "role": "Developer"
     },
     {
-      "name": "godpod",
-      "email": "ravi.rajendra@gmail.com",
+      "name": "themattharris",
+      "email": "matt@themattharris.com",
       "role": "Developer"
     }
   ],

@@ -1,4 +1,4 @@
-# tmhOAuth
+# Twitter
 
 An OAuth library written in PHP for Twitter.
 
